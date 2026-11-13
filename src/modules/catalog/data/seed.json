@@ -1,0 +1,2861 @@
+[
+ {
+  "slug": "lot-de-3-bodies-coton-bio",
+  "name": "Lot de 3 bodies coton bio",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Coton Câlin",
+  "price": 9900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/lot-de-3-bodies-coton-bio/1.webp",
+   "/images/products/lot-de-3-bodies-coton-bio/2.webp",
+   "/images/products/lot-de-3-bodies-coton-bio/3.webp",
+   "/images/products/lot-de-3-bodies-coton-bio/4.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Bleu ciel",
+   "Rose"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton bio certifié",
+  "gender": "mixte"
+ },
+ {
+  "slug": "body-manches-courtes-etoiles",
+  "name": "Body manches courtes étoiles",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "MMKids",
+  "price": 3500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/body-manches-courtes-etoiles/1.webp",
+   "/images/products/body-manches-courtes-etoiles/2.webp",
+   "/images/products/body-manches-courtes-etoiles/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Gris"
+  ],
+  "sizeKind": "bebe",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "body-mariniere-a-rayures",
+  "name": "Body marinière à rayures",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Petit Baobab",
+  "price": 4200,
+  "rating": 4.6,
+  "images": [
+   "/images/products/body-mariniere-a-rayures/1.webp",
+   "/images/products/body-mariniere-a-rayures/2.webp",
+   "/images/products/body-mariniere-a-rayures/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Rouge"
+  ],
+  "sizeKind": "bebe",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "grenouillere-velours-nuages",
+  "name": "Grenouillère velours nuages",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Dodo Doux",
+  "price": 8900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/grenouillere-velours-nuages/1.webp",
+   "/images/products/grenouillere-velours-nuages/2.webp",
+   "/images/products/grenouillere-velours-nuages/3.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Rose"
+  ],
+  "sizeKind": "bebe",
+  "material": "Velours coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "grenouillere-zippee-lapin",
+  "name": "Grenouillère zippée lapin",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Coton Câlin",
+  "price": 9500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/grenouillere-zippee-lapin/1.webp",
+   "/images/products/grenouillere-zippee-lapin/2.webp",
+   "/images/products/grenouillere-zippee-lapin/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Vert menthe"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton bio",
+  "gender": "mixte"
+ },
+ {
+  "slug": "lot-de-3-bodies-manches-longues",
+  "name": "Lot de 3 bodies manches longues",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "MMKids",
+  "price": 10900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/lot-de-3-bodies-manches-longues/1.webp",
+   "/images/products/lot-de-3-bodies-manches-longues/2.webp",
+   "/images/products/lot-de-3-bodies-manches-longues/3.webp",
+   "/images/products/lot-de-3-bodies-manches-longues/4.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Gris",
+   "Bleu ciel"
+  ],
+  "sizeKind": "bebe",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "body-wax-bebe",
+  "name": "Body wax bébé",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Akwaba Kids",
+  "price": 5500,
+  "rating": 4.8,
+  "images": [
+   "/images/products/body-wax-bebe/1.webp",
+   "/images/products/body-wax-bebe/2.webp",
+   "/images/products/body-wax-bebe/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Bleu"
+  ],
+  "sizeKind": "bebe",
+  "material": "Tissu wax 100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "barboteuse-bebe-fleurie",
+  "name": "Barboteuse bébé fleurie",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Petit Baobab",
+  "price": 6900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/barboteuse-bebe-fleurie/1.webp",
+   "/images/products/barboteuse-bebe-fleurie/2.webp",
+   "/images/products/barboteuse-bebe-fleurie/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Lilas"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton léger",
+  "gender": "fille"
+ },
+ {
+  "slug": "gigoteuse-turbulette-0-6-mois",
+  "name": "Gigoteuse turbulette 0-6 mois",
+  "category": "bebe",
+  "subcategory": "bodies-grenouilleres",
+  "brand": "Dodo Doux",
+  "price": 15900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/gigoteuse-turbulette-0-6-mois/1.webp",
+   "/images/products/gigoteuse-turbulette-0-6-mois/2.webp",
+   "/images/products/gigoteuse-turbulette-0-6-mois/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Rose"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton ouatiné",
+  "gender": "mixte"
+ },
+ {
+  "slug": "ensemble-naissance-3-pieces",
+  "name": "Ensemble naissance 3 pièces",
+  "category": "bebe",
+  "subcategory": "ensembles-bebe",
+  "brand": "Coton Câlin",
+  "price": 14900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/ensemble-naissance-3-pieces/1.webp",
+   "/images/products/ensemble-naissance-3-pieces/2.webp",
+   "/images/products/ensemble-naissance-3-pieces/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Beige"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton bio",
+  "gender": "mixte"
+ },
+ {
+  "slug": "robe-bebe-a-volants",
+  "name": "Robe bébé à volants",
+  "category": "bebe",
+  "subcategory": "ensembles-bebe",
+  "brand": "Petit Baobab",
+  "price": 9900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/robe-bebe-a-volants/1.webp",
+   "/images/products/robe-bebe-a-volants/2.webp",
+   "/images/products/robe-bebe-a-volants/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Jaune"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton et tulle",
+  "gender": "fille"
+ },
+ {
+  "slug": "salopette-bebe-en-jean",
+  "name": "Salopette bébé en jean",
+  "category": "bebe",
+  "subcategory": "ensembles-bebe",
+  "brand": "MMKids",
+  "price": 11500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/salopette-bebe-en-jean/1.webp",
+   "/images/products/salopette-bebe-en-jean/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "bebe",
+  "material": "Denim coton souple",
+  "gender": "mixte"
+ },
+ {
+  "slug": "ensemble-bebe-short-et-t-shirt",
+  "name": "Ensemble bébé short et t-shirt",
+  "category": "bebe",
+  "subcategory": "ensembles-bebe",
+  "brand": "Lagune Kids",
+  "price": 7900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/ensemble-bebe-short-et-t-shirt/1.webp",
+   "/images/products/ensemble-bebe-short-et-t-shirt/2.webp",
+   "/images/products/ensemble-bebe-short-et-t-shirt/3.webp"
+  ],
+  "colors": [
+   "Vert menthe",
+   "Bleu ciel"
+  ],
+  "sizeKind": "bebe",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "combinaison-bebe-imprime-safari",
+  "name": "Combinaison bébé imprimé safari",
+  "category": "bebe",
+  "subcategory": "ensembles-bebe",
+  "brand": "Petit Baobab",
+  "price": 10500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/combinaison-bebe-imprime-safari/1.webp",
+   "/images/products/combinaison-bebe-imprime-safari/2.webp",
+   "/images/products/combinaison-bebe-imprime-safari/3.webp"
+  ],
+  "colors": [
+   "Beige",
+   "Vert menthe"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton léger",
+  "gender": "mixte"
+ },
+ {
+  "slug": "kimono-bebe-en-wax",
+  "name": "Kimono bébé en wax",
+  "category": "bebe",
+  "subcategory": "ensembles-bebe",
+  "brand": "Akwaba Kids",
+  "price": 8900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/kimono-bebe-en-wax/1.webp",
+   "/images/products/kimono-bebe-en-wax/2.webp",
+   "/images/products/kimono-bebe-en-wax/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Vert"
+  ],
+  "sizeKind": "bebe",
+  "material": "Tissu wax 100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "lot-de-2-bonnets-naissance",
+  "name": "Lot de 2 bonnets naissance",
+  "category": "bebe",
+  "subcategory": "accessoires-bebe",
+  "brand": "Coton Câlin",
+  "price": 3500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/lot-de-2-bonnets-naissance/1.webp",
+   "/images/products/lot-de-2-bonnets-naissance/2.webp",
+   "/images/products/lot-de-2-bonnets-naissance/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Gris"
+  ],
+  "sizeKind": "bebe-acc",
+  "material": "Maille coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "lot-de-5-bavoirs-impermeables",
+  "name": "Lot de 5 bavoirs imperméables",
+  "category": "bebe",
+  "subcategory": "accessoires-bebe",
+  "brand": "MMKids",
+  "price": 5900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/lot-de-5-bavoirs-impermeables/1.webp",
+   "/images/products/lot-de-5-bavoirs-impermeables/2.webp"
+  ],
+  "colors": [],
+  "sizeKind": null,
+  "material": "Coton éponge et doublure imperméable",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chaussons-bebe-tricotes",
+  "name": "Chaussons bébé tricotés",
+  "category": "bebe",
+  "subcategory": "accessoires-bebe",
+  "brand": "Coton Câlin",
+  "price": 4500,
+  "rating": 4.7,
+  "images": [
+   "/images/products/chaussons-bebe-tricotes/1.webp",
+   "/images/products/chaussons-bebe-tricotes/2.webp",
+   "/images/products/chaussons-bebe-tricotes/3.webp",
+   "/images/products/chaussons-bebe-tricotes/4.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Bleu ciel",
+   "Blanc"
+  ],
+  "sizeKind": "bebe-acc",
+  "material": "Maille tricot",
+  "gender": "mixte"
+ },
+ {
+  "slug": "bandeau-bebe-a-noeud",
+  "name": "Bandeau bébé à nœud",
+  "category": "bebe",
+  "subcategory": "accessoires-bebe",
+  "brand": "Petit Baobab",
+  "price": 2500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/bandeau-bebe-a-noeud/1.webp",
+   "/images/products/bandeau-bebe-a-noeud/2.webp",
+   "/images/products/bandeau-bebe-a-noeud/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Blanc"
+  ],
+  "sizeKind": null,
+  "material": "Élasthanne doux",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-d-ete-fleurie",
+  "name": "Robe d'été fleurie",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "MMKids",
+  "price": 9900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/robe-d-ete-fleurie/1.webp",
+   "/images/products/robe-d-ete-fleurie/2.webp",
+   "/images/products/robe-d-ete-fleurie/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton léger",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-en-wax-fille",
+  "name": "Robe en wax fille",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "Wax Junior",
+  "price": 14500,
+  "rating": 4.9,
+  "images": [
+   "/images/products/robe-en-wax-fille/1.webp",
+   "/images/products/robe-en-wax-fille/2.webp",
+   "/images/products/robe-en-wax-fille/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Bleu"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-tutu-a-paillettes",
+  "name": "Robe tutu à paillettes",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "MMKids",
+  "price": 12900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/robe-tutu-a-paillettes/1.webp",
+   "/images/products/robe-tutu-a-paillettes/2.webp",
+   "/images/products/robe-tutu-a-paillettes/3.webp"
+  ],
+  "colors": [
+   "Lilas",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tulle et coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-chasuble-en-jean",
+  "name": "Robe chasuble en jean",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "Lagune Kids",
+  "price": 11900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/robe-chasuble-en-jean/1.webp",
+   "/images/products/robe-chasuble-en-jean/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-t-shirt-a-rayures",
+  "name": "Robe t-shirt à rayures",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "MMKids",
+  "price": 7500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/robe-t-shirt-a-rayures/1.webp",
+   "/images/products/robe-t-shirt-a-rayures/2.webp",
+   "/images/products/robe-t-shirt-a-rayures/3.webp"
+  ],
+  "colors": [
+   "Rouge",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Jersey coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-a-smocks-en-coton",
+  "name": "Robe à smocks en coton",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "Petit Baobab",
+  "price": 10900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/robe-a-smocks-en-coton/1.webp",
+   "/images/products/robe-a-smocks-en-coton/2.webp",
+   "/images/products/robe-a-smocks-en-coton/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Corail"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton popeline",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-longue-boheme",
+  "name": "Robe longue bohème",
+  "category": "fille",
+  "subcategory": "robes-fille",
+  "brand": "MMKids",
+  "price": 13500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/robe-longue-boheme/1.webp",
+   "/images/products/robe-longue-boheme/2.webp",
+   "/images/products/robe-longue-boheme/3.webp"
+  ],
+  "colors": [
+   "Turquoise",
+   "Corail"
+  ],
+  "sizeKind": "enfant",
+  "material": "Viscose fluide",
+  "gender": "fille"
+ },
+ {
+  "slug": "t-shirt-fille-licorne",
+  "name": "T-shirt fille licorne",
+  "category": "fille",
+  "subcategory": "hauts-fille",
+  "brand": "MMKids",
+  "price": 4900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/t-shirt-fille-licorne/1.webp",
+   "/images/products/t-shirt-fille-licorne/2.webp",
+   "/images/products/t-shirt-fille-licorne/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "t-shirt-sequins-reversibles",
+  "name": "T-shirt sequins réversibles",
+  "category": "fille",
+  "subcategory": "hauts-fille",
+  "brand": "Lagune Kids",
+  "price": 6500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/t-shirt-sequins-reversibles/1.webp",
+   "/images/products/t-shirt-sequins-reversibles/2.webp",
+   "/images/products/t-shirt-sequins-reversibles/3.webp"
+  ],
+  "colors": [
+   "Lilas",
+   "Gris"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton et sequins",
+  "gender": "fille"
+ },
+ {
+  "slug": "blouse-fille-col-claudine",
+  "name": "Blouse fille col Claudine",
+  "category": "fille",
+  "subcategory": "hauts-fille",
+  "brand": "Mini Chic",
+  "price": 8500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/blouse-fille-col-claudine/1.webp",
+   "/images/products/blouse-fille-col-claudine/2.webp",
+   "/images/products/blouse-fille-col-claudine/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton popeline",
+  "gender": "fille"
+ },
+ {
+  "slug": "lot-de-2-debardeurs-fille",
+  "name": "Lot de 2 débardeurs fille",
+  "category": "fille",
+  "subcategory": "hauts-fille",
+  "brand": "MMKids",
+  "price": 5500,
+  "rating": 4.3,
+  "images": [
+   "/images/products/lot-de-2-debardeurs-fille/1.webp",
+   "/images/products/lot-de-2-debardeurs-fille/2.webp",
+   "/images/products/lot-de-2-debardeurs-fille/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Vert menthe"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton côtelé",
+  "gender": "fille"
+ },
+ {
+  "slug": "top-fille-coeur-brode",
+  "name": "Top fille cœur brodé",
+  "category": "fille",
+  "subcategory": "hauts-fille",
+  "brand": "MMKids",
+  "price": 5900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/top-fille-coeur-brode/1.webp",
+   "/images/products/top-fille-coeur-brode/2.webp",
+   "/images/products/top-fille-coeur-brode/3.webp"
+  ],
+  "colors": [
+   "Corail",
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "jupe-plissee-fille",
+  "name": "Jupe plissée fille",
+  "category": "fille",
+  "subcategory": "bas-fille",
+  "brand": "MMKids",
+  "price": 7900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/jupe-plissee-fille/1.webp",
+   "/images/products/jupe-plissee-fille/2.webp",
+   "/images/products/jupe-plissee-fille/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester recyclé",
+  "gender": "fille"
+ },
+ {
+  "slug": "jupe-en-jean-brodee",
+  "name": "Jupe en jean brodée",
+  "category": "fille",
+  "subcategory": "bas-fille",
+  "brand": "Lagune Kids",
+  "price": 8900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/jupe-en-jean-brodee/1.webp",
+   "/images/products/jupe-en-jean-brodee/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "short-fille-en-coton",
+  "name": "Short fille en coton",
+  "category": "fille",
+  "subcategory": "bas-fille",
+  "brand": "MMKids",
+  "price": 4900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/short-fille-en-coton/1.webp",
+   "/images/products/short-fille-en-coton/2.webp",
+   "/images/products/short-fille-en-coton/3.webp",
+   "/images/products/short-fille-en-coton/4.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Jaune",
+   "Bleu ciel"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "lot-de-2-leggings-fille",
+  "name": "Lot de 2 leggings fille",
+  "category": "fille",
+  "subcategory": "bas-fille",
+  "brand": "MMKids",
+  "price": 6900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/lot-de-2-leggings-fille/1.webp",
+   "/images/products/lot-de-2-leggings-fille/2.webp",
+   "/images/products/lot-de-2-leggings-fille/3.webp"
+  ],
+  "colors": [
+   "Noir",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton et élasthanne",
+  "gender": "fille"
+ },
+ {
+  "slug": "pantalon-large-wax-fille",
+  "name": "Pantalon large wax fille",
+  "category": "fille",
+  "subcategory": "bas-fille",
+  "brand": "Wax Junior",
+  "price": 9500,
+  "rating": 4.7,
+  "images": [
+   "/images/products/pantalon-large-wax-fille/1.webp",
+   "/images/products/pantalon-large-wax-fille/2.webp",
+   "/images/products/pantalon-large-wax-fille/3.webp"
+  ],
+  "colors": [
+   "Vert",
+   "Orange"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "jean-slim-fille",
+  "name": "Jean slim fille",
+  "category": "fille",
+  "subcategory": "bas-fille",
+  "brand": "Lagune Kids",
+  "price": 11500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/jean-slim-fille/1.webp",
+   "/images/products/jean-slim-fille/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim stretch",
+  "gender": "fille"
+ },
+ {
+  "slug": "ensemble-fille-t-shirt-et-jupe",
+  "name": "Ensemble fille t-shirt et jupe",
+  "category": "fille",
+  "subcategory": "ensembles-fille",
+  "brand": "MMKids",
+  "price": 12500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/ensemble-fille-t-shirt-et-jupe/1.webp",
+   "/images/products/ensemble-fille-t-shirt-et-jupe/2.webp",
+   "/images/products/ensemble-fille-t-shirt-et-jupe/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Lilas"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "combishort-fille-fleuri",
+  "name": "Combishort fille fleuri",
+  "category": "fille",
+  "subcategory": "ensembles-fille",
+  "brand": "Lagune Kids",
+  "price": 10900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/combishort-fille-fleuri/1.webp",
+   "/images/products/combishort-fille-fleuri/2.webp",
+   "/images/products/combishort-fille-fleuri/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Turquoise"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton léger",
+  "gender": "fille"
+ },
+ {
+  "slug": "ensemble-legging-et-tunique",
+  "name": "Ensemble legging et tunique",
+  "category": "fille",
+  "subcategory": "ensembles-fille",
+  "brand": "MMKids",
+  "price": 11900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/ensemble-legging-et-tunique/1.webp",
+   "/images/products/ensemble-legging-et-tunique/2.webp",
+   "/images/products/ensemble-legging-et-tunique/3.webp"
+  ],
+  "colors": [
+   "Turquoise",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton et élasthanne",
+  "gender": "fille"
+ },
+ {
+  "slug": "salopette-fille-en-velours",
+  "name": "Salopette fille en velours",
+  "category": "fille",
+  "subcategory": "ensembles-fille",
+  "brand": "Petit Baobab",
+  "price": 13900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/salopette-fille-en-velours/1.webp",
+   "/images/products/salopette-fille-en-velours/2.webp",
+   "/images/products/salopette-fille-en-velours/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Beige"
+  ],
+  "sizeKind": "enfant",
+  "material": "Velours côtelé",
+  "gender": "fille"
+ },
+ {
+  "slug": "t-shirt-garcon-dinosaure",
+  "name": "T-shirt garçon dinosaure",
+  "category": "garcon",
+  "subcategory": "tshirts-garcon",
+  "brand": "MMKids",
+  "price": 4900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/t-shirt-garcon-dinosaure/1.webp",
+   "/images/products/t-shirt-garcon-dinosaure/2.webp",
+   "/images/products/t-shirt-garcon-dinosaure/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Bleu ciel"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "t-shirt-garcon-voiture-de-course",
+  "name": "T-shirt garçon voiture de course",
+  "category": "garcon",
+  "subcategory": "tshirts-garcon",
+  "brand": "MMKids",
+  "price": 4900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/t-shirt-garcon-voiture-de-course/1.webp",
+   "/images/products/t-shirt-garcon-voiture-de-course/2.webp",
+   "/images/products/t-shirt-garcon-voiture-de-course/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Jaune"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "lot-de-3-t-shirts-basiques",
+  "name": "Lot de 3 t-shirts basiques",
+  "category": "garcon",
+  "subcategory": "tshirts-garcon",
+  "brand": "MMKids",
+  "price": 9900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/lot-de-3-t-shirts-basiques/1.webp",
+   "/images/products/lot-de-3-t-shirts-basiques/2.webp",
+   "/images/products/lot-de-3-t-shirts-basiques/3.webp",
+   "/images/products/lot-de-3-t-shirts-basiques/4.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Bleu marine",
+   "Gris"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "polo-garcon-en-pique",
+  "name": "Polo garçon en piqué",
+  "category": "garcon",
+  "subcategory": "tshirts-garcon",
+  "brand": "Lagune Kids",
+  "price": 7500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/polo-garcon-en-pique/1.webp",
+   "/images/products/polo-garcon-en-pique/2.webp",
+   "/images/products/polo-garcon-en-pique/3.webp",
+   "/images/products/polo-garcon-en-pique/4.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Blanc",
+   "Rouge"
+  ],
+  "sizeKind": "enfant",
+  "material": "Piqué de coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "t-shirt-raye-garcon",
+  "name": "T-shirt rayé garçon",
+  "category": "garcon",
+  "subcategory": "tshirts-garcon",
+  "brand": "Petit Baobab",
+  "price": 5500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/t-shirt-raye-garcon/1.webp",
+   "/images/products/t-shirt-raye-garcon/2.webp",
+   "/images/products/t-shirt-raye-garcon/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Vert"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "debardeur-garcon-ballon",
+  "name": "Débardeur garçon ballon",
+  "category": "garcon",
+  "subcategory": "tshirts-garcon",
+  "brand": "Kidsport",
+  "price": 3900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/debardeur-garcon-ballon/1.webp",
+   "/images/products/debardeur-garcon-ballon/2.webp",
+   "/images/products/debardeur-garcon-ballon/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Bleu"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton respirant",
+  "gender": "garcon"
+ },
+ {
+  "slug": "chemise-garcon-a-carreaux",
+  "name": "Chemise garçon à carreaux",
+  "category": "garcon",
+  "subcategory": "chemises-garcon",
+  "brand": "MMKids",
+  "price": 8900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/chemise-garcon-a-carreaux/1.webp",
+   "/images/products/chemise-garcon-a-carreaux/2.webp",
+   "/images/products/chemise-garcon-a-carreaux/3.webp"
+  ],
+  "colors": [
+   "Rouge",
+   "Bleu"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton flanelle légère",
+  "gender": "garcon"
+ },
+ {
+  "slug": "chemise-wax-garcon",
+  "name": "Chemise wax garçon",
+  "category": "garcon",
+  "subcategory": "chemises-garcon",
+  "brand": "Wax Junior",
+  "price": 11900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/chemise-wax-garcon/1.webp",
+   "/images/products/chemise-wax-garcon/2.webp",
+   "/images/products/chemise-wax-garcon/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Bleu"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "chemise-en-lin-manches-courtes",
+  "name": "Chemise en lin manches courtes",
+  "category": "garcon",
+  "subcategory": "chemises-garcon",
+  "brand": "Lagune Kids",
+  "price": 9900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/chemise-en-lin-manches-courtes/1.webp",
+   "/images/products/chemise-en-lin-manches-courtes/2.webp",
+   "/images/products/chemise-en-lin-manches-courtes/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Beige"
+  ],
+  "sizeKind": "enfant",
+  "material": "Lin et coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "chemise-en-jean-garcon",
+  "name": "Chemise en jean garçon",
+  "category": "garcon",
+  "subcategory": "chemises-garcon",
+  "brand": "MMKids",
+  "price": 10500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/chemise-en-jean-garcon/1.webp",
+   "/images/products/chemise-en-jean-garcon/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim léger",
+  "gender": "garcon"
+ },
+ {
+  "slug": "short-cargo-garcon",
+  "name": "Short cargo garçon",
+  "category": "garcon",
+  "subcategory": "bas-garcon",
+  "brand": "MMKids",
+  "price": 6900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/short-cargo-garcon/1.webp",
+   "/images/products/short-cargo-garcon/2.webp",
+   "/images/products/short-cargo-garcon/3.webp"
+  ],
+  "colors": [
+   "Kaki",
+   "Beige"
+  ],
+  "sizeKind": "enfant",
+  "material": "Toile de coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "bermuda-en-jean-garcon",
+  "name": "Bermuda en jean garçon",
+  "category": "garcon",
+  "subcategory": "bas-garcon",
+  "brand": "Lagune Kids",
+  "price": 7900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/bermuda-en-jean-garcon/1.webp",
+   "/images/products/bermuda-en-jean-garcon/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "pantalon-chino-garcon",
+  "name": "Pantalon chino garçon",
+  "category": "garcon",
+  "subcategory": "bas-garcon",
+  "brand": "MMKids",
+  "price": 9900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/pantalon-chino-garcon/1.webp",
+   "/images/products/pantalon-chino-garcon/2.webp",
+   "/images/products/pantalon-chino-garcon/3.webp"
+  ],
+  "colors": [
+   "Beige",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Twill de coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "jean-regular-garcon",
+  "name": "Jean regular garçon",
+  "category": "garcon",
+  "subcategory": "bas-garcon",
+  "brand": "Lagune Kids",
+  "price": 11500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/jean-regular-garcon/1.webp",
+   "/images/products/jean-regular-garcon/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "jogging-molleton-garcon",
+  "name": "Jogging molleton garçon",
+  "category": "garcon",
+  "subcategory": "bas-garcon",
+  "brand": "MMKids",
+  "price": 7900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/jogging-molleton-garcon/1.webp",
+   "/images/products/jogging-molleton-garcon/2.webp",
+   "/images/products/jogging-molleton-garcon/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Molleton coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "ensemble-garcon-t-shirt-et-short",
+  "name": "Ensemble garçon t-shirt et short",
+  "category": "garcon",
+  "subcategory": "ensembles-garcon",
+  "brand": "MMKids",
+  "price": 9900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/ensemble-garcon-t-shirt-et-short/1.webp",
+   "/images/products/ensemble-garcon-t-shirt-et-short/2.webp",
+   "/images/products/ensemble-garcon-t-shirt-et-short/3.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Vert"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "ensemble-chemise-et-bermuda",
+  "name": "Ensemble chemise et bermuda",
+  "category": "garcon",
+  "subcategory": "ensembles-garcon",
+  "brand": "Lagune Kids",
+  "price": 15900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/ensemble-chemise-et-bermuda/1.webp",
+   "/images/products/ensemble-chemise-et-bermuda/2.webp",
+   "/images/products/ensemble-chemise-et-bermuda/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Bleu ciel"
+  ],
+  "sizeKind": "enfant",
+  "material": "Lin et coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "salopette-courte-garcon",
+  "name": "Salopette courte garçon",
+  "category": "garcon",
+  "subcategory": "ensembles-garcon",
+  "brand": "Petit Baobab",
+  "price": 11900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/salopette-courte-garcon/1.webp",
+   "/images/products/salopette-courte-garcon/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "ensemble-wax-garcon",
+  "name": "Ensemble wax garçon",
+  "category": "garcon",
+  "subcategory": "ensembles-garcon",
+  "brand": "Wax Junior",
+  "price": 16900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/ensemble-wax-garcon/1.webp",
+   "/images/products/ensemble-wax-garcon/2.webp",
+   "/images/products/ensemble-wax-garcon/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Vert"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "robe-de-ceremonie-satin-et-tulle",
+  "name": "Robe de cérémonie satin et tulle",
+  "category": "ceremonie",
+  "subcategory": "robes-ceremonie",
+  "brand": "Mini Chic",
+  "price": 24900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/robe-de-ceremonie-satin-et-tulle/1.webp",
+   "/images/products/robe-de-ceremonie-satin-et-tulle/2.webp",
+   "/images/products/robe-de-ceremonie-satin-et-tulle/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Satin et tulle",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-demoiselle-d-honneur",
+  "name": "Robe demoiselle d'honneur",
+  "category": "ceremonie",
+  "subcategory": "robes-ceremonie",
+  "brand": "Mini Chic",
+  "price": 27900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/robe-demoiselle-d-honneur/1.webp",
+   "/images/products/robe-demoiselle-d-honneur/2.webp",
+   "/images/products/robe-demoiselle-d-honneur/3.webp"
+  ],
+  "colors": [
+   "Lilas",
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "Mousseline et tulle",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-princesse-a-noeud",
+  "name": "Robe princesse à nœud",
+  "category": "ceremonie",
+  "subcategory": "robes-ceremonie",
+  "brand": "Mini Chic",
+  "price": 21900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/robe-princesse-a-noeud/1.webp",
+   "/images/products/robe-princesse-a-noeud/2.webp",
+   "/images/products/robe-princesse-a-noeud/3.webp"
+  ],
+  "colors": [
+   "Rouge",
+   "Bleu ciel"
+  ],
+  "sizeKind": "enfant",
+  "material": "Satin doublé coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-de-bapteme-brodee",
+  "name": "Robe de baptême brodée",
+  "category": "ceremonie",
+  "subcategory": "robes-ceremonie",
+  "brand": "Mini Chic",
+  "price": 19900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/robe-de-bapteme-brodee/1.webp",
+   "/images/products/robe-de-bapteme-brodee/2.webp",
+   "/images/products/robe-de-bapteme-brodee/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Beige"
+  ],
+  "sizeKind": "bebe",
+  "material": "Coton brodé",
+  "gender": "fille"
+ },
+ {
+  "slug": "costume-garcon-3-pieces",
+  "name": "Costume garçon 3 pièces",
+  "category": "ceremonie",
+  "subcategory": "costumes-garcon",
+  "brand": "Mini Chic",
+  "price": 32900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/costume-garcon-3-pieces/1.webp",
+   "/images/products/costume-garcon-3-pieces/2.webp",
+   "/images/products/costume-garcon-3-pieces/3.webp",
+   "/images/products/costume-garcon-3-pieces/4.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Gris",
+   "Noir"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester et viscose",
+  "gender": "garcon"
+ },
+ {
+  "slug": "chemise-blanche-et-noeud-papillon",
+  "name": "Chemise blanche et nœud papillon",
+  "category": "ceremonie",
+  "subcategory": "costumes-garcon",
+  "brand": "Mini Chic",
+  "price": 13900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/chemise-blanche-et-noeud-papillon/1.webp",
+   "/images/products/chemise-blanche-et-noeud-papillon/2.webp"
+  ],
+  "colors": [
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton popeline",
+  "gender": "garcon"
+ },
+ {
+  "slug": "gilet-de-costume-garcon",
+  "name": "Gilet de costume garçon",
+  "category": "ceremonie",
+  "subcategory": "costumes-garcon",
+  "brand": "Mini Chic",
+  "price": 9900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/gilet-de-costume-garcon/1.webp",
+   "/images/products/gilet-de-costume-garcon/2.webp",
+   "/images/products/gilet-de-costume-garcon/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester et viscose",
+  "gender": "garcon"
+ },
+ {
+  "slug": "boubou-garcon-brode",
+  "name": "Boubou garçon brodé",
+  "category": "ceremonie",
+  "subcategory": "tenues-traditionnelles",
+  "brand": "Akwaba Kids",
+  "price": 18900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/boubou-garcon-brode/1.webp",
+   "/images/products/boubou-garcon-brode/2.webp",
+   "/images/products/boubou-garcon-brode/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Bleu ciel"
+  ],
+  "sizeKind": "enfant",
+  "material": "Bazin brodé",
+  "gender": "garcon"
+ },
+ {
+  "slug": "ensemble-pagne-fille-haut-et-jupe",
+  "name": "Ensemble pagne fille haut et jupe",
+  "category": "ceremonie",
+  "subcategory": "tenues-traditionnelles",
+  "brand": "Akwaba Kids",
+  "price": 16500,
+  "rating": 4.8,
+  "images": [
+   "/images/products/ensemble-pagne-fille-haut-et-jupe/1.webp",
+   "/images/products/ensemble-pagne-fille-haut-et-jupe/2.webp",
+   "/images/products/ensemble-pagne-fille-haut-et-jupe/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Vert"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-kita-fille",
+  "name": "Robe kita fille",
+  "category": "ceremonie",
+  "subcategory": "tenues-traditionnelles",
+  "brand": "Akwaba Kids",
+  "price": 19900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/robe-kita-fille/1.webp",
+   "/images/products/robe-kita-fille/2.webp"
+  ],
+  "colors": [
+   "Jaune"
+  ],
+  "sizeKind": "enfant",
+  "material": "Pagne tissé kita",
+  "gender": "fille"
+ },
+ {
+  "slug": "tenue-traditionnelle-garcon-tunique-et-pantalon",
+  "name": "Tenue traditionnelle garçon tunique et pantalon",
+  "category": "ceremonie",
+  "subcategory": "tenues-traditionnelles",
+  "brand": "Wax Junior",
+  "price": 17900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/tenue-traditionnelle-garcon-tunique-et-pantalon/1.webp",
+   "/images/products/tenue-traditionnelle-garcon-tunique-et-pantalon/2.webp",
+   "/images/products/tenue-traditionnelle-garcon-tunique-et-pantalon/3.webp"
+  ],
+  "colors": [
+   "Vert",
+   "Bleu"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "garcon"
+ },
+ {
+  "slug": "robe-sirene-wax-fille",
+  "name": "Robe sirène wax fille",
+  "category": "ceremonie",
+  "subcategory": "tenues-traditionnelles",
+  "brand": "Wax Junior",
+  "price": 15900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/robe-sirene-wax-fille/1.webp",
+   "/images/products/robe-sirene-wax-fille/2.webp",
+   "/images/products/robe-sirene-wax-fille/3.webp"
+  ],
+  "colors": [
+   "Bleu",
+   "Fuchsia"
+  ],
+  "sizeKind": "enfant",
+  "material": "Tissu wax 100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "baskets-lumineuses-led",
+  "name": "Baskets lumineuses LED",
+  "category": "chaussures",
+  "subcategory": "baskets-enfant",
+  "brand": "Kidstep",
+  "price": 14900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/baskets-lumineuses-led/1.webp",
+   "/images/products/baskets-lumineuses-led/2.webp",
+   "/images/products/baskets-lumineuses-led/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Noir"
+  ],
+  "sizeKind": "pointure",
+  "material": "Synthétique et semelle caoutchouc",
+  "gender": "mixte"
+ },
+ {
+  "slug": "baskets-a-scratch-enfant",
+  "name": "Baskets à scratch enfant",
+  "category": "chaussures",
+  "subcategory": "baskets-enfant",
+  "brand": "P'tits Pas",
+  "price": 11900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/baskets-a-scratch-enfant/1.webp",
+   "/images/products/baskets-a-scratch-enfant/2.webp",
+   "/images/products/baskets-a-scratch-enfant/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Blanc"
+  ],
+  "sizeKind": "pointure",
+  "material": "Cuir synthétique",
+  "gender": "mixte"
+ },
+ {
+  "slug": "baskets-montantes-en-toile",
+  "name": "Baskets montantes en toile",
+  "category": "chaussures",
+  "subcategory": "baskets-enfant",
+  "brand": "Kidstep",
+  "price": 12500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/baskets-montantes-en-toile/1.webp",
+   "/images/products/baskets-montantes-en-toile/2.webp",
+   "/images/products/baskets-montantes-en-toile/3.webp"
+  ],
+  "colors": [
+   "Rouge",
+   "Noir"
+  ],
+  "sizeKind": "pointure",
+  "material": "Toile et caoutchouc",
+  "gender": "mixte"
+ },
+ {
+  "slug": "baskets-running-junior",
+  "name": "Baskets running junior",
+  "category": "chaussures",
+  "subcategory": "baskets-enfant",
+  "brand": "Kidstep",
+  "price": 16900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/baskets-running-junior/1.webp",
+   "/images/products/baskets-running-junior/2.webp",
+   "/images/products/baskets-running-junior/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Bleu ciel"
+  ],
+  "sizeKind": "pointure",
+  "material": "Mesh respirant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "tennis-blanches-a-scratch",
+  "name": "Tennis blanches à scratch",
+  "category": "chaussures",
+  "subcategory": "baskets-enfant",
+  "brand": "P'tits Pas",
+  "price": 9900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/tennis-blanches-a-scratch/1.webp",
+   "/images/products/tennis-blanches-a-scratch/2.webp"
+  ],
+  "colors": [
+   "Blanc"
+  ],
+  "sizeKind": "pointure",
+  "material": "Cuir synthétique",
+  "gender": "mixte"
+ },
+ {
+  "slug": "sandales-fille-a-fleurs",
+  "name": "Sandales fille à fleurs",
+  "category": "chaussures",
+  "subcategory": "sandales-enfant",
+  "brand": "P'tits Pas",
+  "price": 7900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/sandales-fille-a-fleurs/1.webp",
+   "/images/products/sandales-fille-a-fleurs/2.webp",
+   "/images/products/sandales-fille-a-fleurs/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Jaune"
+  ],
+  "sizeKind": "pointure",
+  "material": "Cuir synthétique",
+  "gender": "fille"
+ },
+ {
+  "slug": "sandales-garcon-sport",
+  "name": "Sandales garçon sport",
+  "category": "chaussures",
+  "subcategory": "sandales-enfant",
+  "brand": "Kidstep",
+  "price": 8500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/sandales-garcon-sport/1.webp",
+   "/images/products/sandales-garcon-sport/2.webp",
+   "/images/products/sandales-garcon-sport/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Kaki"
+  ],
+  "sizeKind": "pointure",
+  "material": "Textile et mousse EVA",
+  "gender": "garcon"
+ },
+ {
+  "slug": "claquettes-enfant",
+  "name": "Claquettes enfant",
+  "category": "chaussures",
+  "subcategory": "sandales-enfant",
+  "brand": "MMKids",
+  "price": 3500,
+  "rating": 4.3,
+  "images": [
+   "/images/products/claquettes-enfant/1.webp",
+   "/images/products/claquettes-enfant/2.webp",
+   "/images/products/claquettes-enfant/3.webp",
+   "/images/products/claquettes-enfant/4.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Rose",
+   "Noir"
+  ],
+  "sizeKind": "pointure",
+  "material": "Mousse EVA",
+  "gender": "mixte"
+ },
+ {
+  "slug": "sandales-meduses",
+  "name": "Sandales méduses",
+  "category": "chaussures",
+  "subcategory": "sandales-enfant",
+  "brand": "MMKids",
+  "price": 4500,
+  "rating": 4.2,
+  "images": [
+   "/images/products/sandales-meduses/1.webp",
+   "/images/products/sandales-meduses/2.webp",
+   "/images/products/sandales-meduses/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Turquoise"
+  ],
+  "sizeKind": "pointure",
+  "material": "Plastique souple sans BPA",
+  "gender": "fille"
+ },
+ {
+  "slug": "ballerines-vernies-fille",
+  "name": "Ballerines vernies fille",
+  "category": "chaussures",
+  "subcategory": "chaussures-habillees",
+  "brand": "Mini Chic",
+  "price": 11900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/ballerines-vernies-fille/1.webp",
+   "/images/products/ballerines-vernies-fille/2.webp",
+   "/images/products/ballerines-vernies-fille/3.webp",
+   "/images/products/ballerines-vernies-fille/4.webp"
+  ],
+  "colors": [
+   "Noir",
+   "Rouge",
+   "Rose"
+  ],
+  "sizeKind": "pointure",
+  "material": "Synthétique verni",
+  "gender": "fille"
+ },
+ {
+  "slug": "mocassins-garcon",
+  "name": "Mocassins garçon",
+  "category": "chaussures",
+  "subcategory": "chaussures-habillees",
+  "brand": "Mini Chic",
+  "price": 14900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/mocassins-garcon/1.webp",
+   "/images/products/mocassins-garcon/2.webp",
+   "/images/products/mocassins-garcon/3.webp"
+  ],
+  "colors": [
+   "Marron",
+   "Noir"
+  ],
+  "sizeKind": "pointure",
+  "material": "Cuir",
+  "gender": "garcon"
+ },
+ {
+  "slug": "ballerines-a-paillettes",
+  "name": "Ballerines à paillettes",
+  "category": "chaussures",
+  "subcategory": "chaussures-habillees",
+  "brand": "P'tits Pas",
+  "price": 9900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/ballerines-a-paillettes/1.webp",
+   "/images/products/ballerines-a-paillettes/2.webp",
+   "/images/products/ballerines-a-paillettes/3.webp"
+  ],
+  "colors": [
+   "Doré",
+   "Argent"
+  ],
+  "sizeKind": "pointure",
+  "material": "Synthétique pailleté",
+  "gender": "fille"
+ },
+ {
+  "slug": "chaussures-premiers-pas-cuir-souple",
+  "name": "Chaussures premiers pas cuir souple",
+  "category": "chaussures",
+  "subcategory": "premiers-pas",
+  "brand": "P'tits Pas",
+  "price": 13900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/chaussures-premiers-pas-cuir-souple/1.webp",
+   "/images/products/chaussures-premiers-pas-cuir-souple/2.webp",
+   "/images/products/chaussures-premiers-pas-cuir-souple/3.webp",
+   "/images/products/chaussures-premiers-pas-cuir-souple/4.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Rose",
+   "Bleu ciel"
+  ],
+  "sizeKind": "premiers-pas",
+  "material": "Cuir souple",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chaussons-antiderapants-bebe",
+  "name": "Chaussons antidérapants bébé",
+  "category": "chaussures",
+  "subcategory": "premiers-pas",
+  "brand": "P'tits Pas",
+  "price": 5900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/chaussons-antiderapants-bebe/1.webp",
+   "/images/products/chaussons-antiderapants-bebe/2.webp",
+   "/images/products/chaussons-antiderapants-bebe/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Rose"
+  ],
+  "sizeKind": "premiers-pas",
+  "material": "Textile et semelle antidérapante",
+  "gender": "mixte"
+ },
+ {
+  "slug": "bottines-premiers-pas",
+  "name": "Bottines premiers pas",
+  "category": "chaussures",
+  "subcategory": "premiers-pas",
+  "brand": "P'tits Pas",
+  "price": 15900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/bottines-premiers-pas/1.webp",
+   "/images/products/bottines-premiers-pas/2.webp",
+   "/images/products/bottines-premiers-pas/3.webp"
+  ],
+  "colors": [
+   "Marron",
+   "Beige"
+  ],
+  "sizeKind": "premiers-pas",
+  "material": "Cuir",
+  "gender": "mixte"
+ },
+ {
+  "slug": "sandales-premiers-pas",
+  "name": "Sandales premiers pas",
+  "category": "chaussures",
+  "subcategory": "premiers-pas",
+  "brand": "P'tits Pas",
+  "price": 9500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/sandales-premiers-pas/1.webp",
+   "/images/products/sandales-premiers-pas/2.webp",
+   "/images/products/sandales-premiers-pas/3.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Rose"
+  ],
+  "sizeKind": "premiers-pas",
+  "material": "Cuir souple",
+  "gender": "mixte"
+ },
+ {
+  "slug": "pyjama-court-fille-licorne",
+  "name": "Pyjama court fille licorne",
+  "category": "nuit",
+  "subcategory": "pyjamas",
+  "brand": "Dodo Doux",
+  "price": 7900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/pyjama-court-fille-licorne/1.webp",
+   "/images/products/pyjama-court-fille-licorne/2.webp",
+   "/images/products/pyjama-court-fille-licorne/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Lilas"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "fille"
+ },
+ {
+  "slug": "pyjama-long-garcon-dinosaures",
+  "name": "Pyjama long garçon dinosaures",
+  "category": "nuit",
+  "subcategory": "pyjamas",
+  "brand": "Dodo Doux",
+  "price": 9500,
+  "rating": 4.7,
+  "images": [
+   "/images/products/pyjama-long-garcon-dinosaures/1.webp",
+   "/images/products/pyjama-long-garcon-dinosaures/2.webp",
+   "/images/products/pyjama-long-garcon-dinosaures/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Vert"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton interlock",
+  "gender": "garcon"
+ },
+ {
+  "slug": "pyjama-coton-a-etoiles",
+  "name": "Pyjama coton à étoiles",
+  "category": "nuit",
+  "subcategory": "pyjamas",
+  "brand": "Dodo Doux",
+  "price": 8500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/pyjama-coton-a-etoiles/1.webp",
+   "/images/products/pyjama-coton-a-etoiles/2.webp",
+   "/images/products/pyjama-coton-a-etoiles/3.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Gris"
+  ],
+  "sizeKind": "enfant",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chemise-de-nuit-fille",
+  "name": "Chemise de nuit fille",
+  "category": "nuit",
+  "subcategory": "pyjamas",
+  "brand": "Dodo Doux",
+  "price": 6900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/chemise-de-nuit-fille/1.webp",
+   "/images/products/chemise-de-nuit-fille/2.webp",
+   "/images/products/chemise-de-nuit-fille/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton léger",
+  "gender": "fille"
+ },
+ {
+  "slug": "pyjama-combinaison-enfant",
+  "name": "Pyjama combinaison enfant",
+  "category": "nuit",
+  "subcategory": "pyjamas",
+  "brand": "Dodo Doux",
+  "price": 11900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/pyjama-combinaison-enfant/1.webp",
+   "/images/products/pyjama-combinaison-enfant/2.webp",
+   "/images/products/pyjama-combinaison-enfant/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Rose"
+  ],
+  "sizeKind": "enfant",
+  "material": "Molleton doux",
+  "gender": "mixte"
+ },
+ {
+  "slug": "lot-de-5-slips-garcon",
+  "name": "Lot de 5 slips garçon",
+  "category": "nuit",
+  "subcategory": "sous-vetements",
+  "brand": "MMKids",
+  "price": 6500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/lot-de-5-slips-garcon/1.webp",
+   "/images/products/lot-de-5-slips-garcon/2.webp"
+  ],
+  "colors": [],
+  "sizeKind": "dessous",
+  "material": "Coton et élasthanne",
+  "gender": "garcon"
+ },
+ {
+  "slug": "lot-de-5-culottes-fille",
+  "name": "Lot de 5 culottes fille",
+  "category": "nuit",
+  "subcategory": "sous-vetements",
+  "brand": "MMKids",
+  "price": 6500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/lot-de-5-culottes-fille/1.webp",
+   "/images/products/lot-de-5-culottes-fille/2.webp"
+  ],
+  "colors": [],
+  "sizeKind": "dessous",
+  "material": "Coton et élasthanne",
+  "gender": "fille"
+ },
+ {
+  "slug": "lot-de-3-boxers-garcon",
+  "name": "Lot de 3 boxers garçon",
+  "category": "nuit",
+  "subcategory": "sous-vetements",
+  "brand": "MMKids",
+  "price": 6900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/lot-de-3-boxers-garcon/1.webp",
+   "/images/products/lot-de-3-boxers-garcon/2.webp",
+   "/images/products/lot-de-3-boxers-garcon/3.webp",
+   "/images/products/lot-de-3-boxers-garcon/4.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Gris",
+   "Vert"
+  ],
+  "sizeKind": "dessous",
+  "material": "Coton et élasthanne",
+  "gender": "garcon"
+ },
+ {
+  "slug": "lot-de-2-maillots-de-corps",
+  "name": "Lot de 2 maillots de corps",
+  "category": "nuit",
+  "subcategory": "sous-vetements",
+  "brand": "Coton Câlin",
+  "price": 4500,
+  "rating": 4.3,
+  "images": [
+   "/images/products/lot-de-2-maillots-de-corps/1.webp",
+   "/images/products/lot-de-2-maillots-de-corps/2.webp"
+  ],
+  "colors": [
+   "Blanc"
+  ],
+  "sizeKind": "dessous",
+  "material": "Coton côtelé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "lot-de-7-paires-de-chaussettes",
+  "name": "Lot de 7 paires de chaussettes",
+  "category": "nuit",
+  "subcategory": "chaussettes-collants",
+  "brand": "MMKids",
+  "price": 5500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/lot-de-7-paires-de-chaussettes/1.webp",
+   "/images/products/lot-de-7-paires-de-chaussettes/2.webp"
+  ],
+  "colors": [],
+  "sizeKind": "chaussettes",
+  "material": "Coton peigné",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chaussettes-antiderapantes-bebe",
+  "name": "Chaussettes antidérapantes bébé",
+  "category": "nuit",
+  "subcategory": "chaussettes-collants",
+  "brand": "Coton Câlin",
+  "price": 3900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/chaussettes-antiderapantes-bebe/1.webp",
+   "/images/products/chaussettes-antiderapantes-bebe/2.webp",
+   "/images/products/chaussettes-antiderapantes-bebe/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Bleu ciel"
+  ],
+  "sizeKind": "chaussettes",
+  "material": "Coton et picots silicone",
+  "gender": "mixte"
+ },
+ {
+  "slug": "lot-de-2-collants-fille",
+  "name": "Lot de 2 collants fille",
+  "category": "nuit",
+  "subcategory": "chaussettes-collants",
+  "brand": "MMKids",
+  "price": 4900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/lot-de-2-collants-fille/1.webp",
+   "/images/products/lot-de-2-collants-fille/2.webp",
+   "/images/products/lot-de-2-collants-fille/3.webp",
+   "/images/products/lot-de-2-collants-fille/4.webp"
+  ],
+  "colors": [
+   "Blanc",
+   "Rose",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton et polyamide",
+  "gender": "fille"
+ },
+ {
+  "slug": "survetement-enfant-2-pieces",
+  "name": "Survêtement enfant 2 pièces",
+  "category": "sport-plage",
+  "subcategory": "survetements",
+  "brand": "Kidsport",
+  "price": 15900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/survetement-enfant-2-pieces/1.webp",
+   "/images/products/survetement-enfant-2-pieces/2.webp",
+   "/images/products/survetement-enfant-2-pieces/3.webp",
+   "/images/products/survetement-enfant-2-pieces/4.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Rouge",
+   "Noir"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester recyclé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "veste-de-survetement-zippee",
+  "name": "Veste de survêtement zippée",
+  "category": "sport-plage",
+  "subcategory": "survetements",
+  "brand": "Kidsport",
+  "price": 10900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/veste-de-survetement-zippee/1.webp",
+   "/images/products/veste-de-survetement-zippee/2.webp",
+   "/images/products/veste-de-survetement-zippee/3.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Vert"
+  ],
+  "sizeKind": "enfant",
+  "material": "Molleton léger",
+  "gender": "mixte"
+ },
+ {
+  "slug": "jogging-enfant-a-bandes",
+  "name": "Jogging enfant à bandes",
+  "category": "sport-plage",
+  "subcategory": "survetements",
+  "brand": "Kidsport",
+  "price": 8500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/jogging-enfant-a-bandes/1.webp",
+   "/images/products/jogging-enfant-a-bandes/2.webp",
+   "/images/products/jogging-enfant-a-bandes/3.webp"
+  ],
+  "colors": [
+   "Noir",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester recyclé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "maillot-de-foot-enfant-orange-et-vert",
+  "name": "Maillot de foot enfant orange et vert",
+  "category": "sport-plage",
+  "subcategory": "maillots-sport",
+  "brand": "Kidsport",
+  "price": 9900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/maillot-de-foot-enfant-orange-et-vert/1.webp",
+   "/images/products/maillot-de-foot-enfant-orange-et-vert/2.webp"
+  ],
+  "colors": [
+   "Orange"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester respirant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "ensemble-de-foot-maillot-et-short",
+  "name": "Ensemble de foot maillot et short",
+  "category": "sport-plage",
+  "subcategory": "maillots-sport",
+  "brand": "Kidsport",
+  "price": 12900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/ensemble-de-foot-maillot-et-short/1.webp",
+   "/images/products/ensemble-de-foot-maillot-et-short/2.webp",
+   "/images/products/ensemble-de-foot-maillot-et-short/3.webp"
+  ],
+  "colors": [
+   "Bleu",
+   "Rouge"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester respirant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "t-shirt-de-sport-respirant",
+  "name": "T-shirt de sport respirant",
+  "category": "sport-plage",
+  "subcategory": "maillots-sport",
+  "brand": "Kidsport",
+  "price": 5900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/t-shirt-de-sport-respirant/1.webp",
+   "/images/products/t-shirt-de-sport-respirant/2.webp",
+   "/images/products/t-shirt-de-sport-respirant/3.webp"
+  ],
+  "colors": [
+   "Vert menthe",
+   "Orange"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester respirant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "tenue-de-danse-justaucorps-et-tutu",
+  "name": "Tenue de danse justaucorps et tutu",
+  "category": "sport-plage",
+  "subcategory": "maillots-sport",
+  "brand": "Kidsport",
+  "price": 11900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/tenue-de-danse-justaucorps-et-tutu/1.webp",
+   "/images/products/tenue-de-danse-justaucorps-et-tutu/2.webp",
+   "/images/products/tenue-de-danse-justaucorps-et-tutu/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Noir"
+  ],
+  "sizeKind": "enfant",
+  "material": "Lycra et tulle",
+  "gender": "fille"
+ },
+ {
+  "slug": "kimono-de-judo-enfant",
+  "name": "Kimono de judo enfant",
+  "category": "sport-plage",
+  "subcategory": "maillots-sport",
+  "brand": "Kidsport",
+  "price": 14900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/kimono-de-judo-enfant/1.webp",
+   "/images/products/kimono-de-judo-enfant/2.webp"
+  ],
+  "colors": [
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "Coton grain de riz",
+  "gender": "mixte"
+ },
+ {
+  "slug": "maillot-de-bain-fille-une-piece",
+  "name": "Maillot de bain fille une pièce",
+  "category": "sport-plage",
+  "subcategory": "maillots-bain",
+  "brand": "Sunny Kids",
+  "price": 7900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/maillot-de-bain-fille-une-piece/1.webp",
+   "/images/products/maillot-de-bain-fille-une-piece/2.webp",
+   "/images/products/maillot-de-bain-fille-une-piece/3.webp"
+  ],
+  "colors": [
+   "Corail",
+   "Turquoise"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyamide anti-UV 50+",
+  "gender": "fille"
+ },
+ {
+  "slug": "maillot-de-bain-fille-2-pieces",
+  "name": "Maillot de bain fille 2 pièces",
+  "category": "sport-plage",
+  "subcategory": "maillots-bain",
+  "brand": "Sunny Kids",
+  "price": 6900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/maillot-de-bain-fille-2-pieces/1.webp",
+   "/images/products/maillot-de-bain-fille-2-pieces/2.webp",
+   "/images/products/maillot-de-bain-fille-2-pieces/3.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Jaune"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyamide anti-UV 50+",
+  "gender": "fille"
+ },
+ {
+  "slug": "short-de-bain-garcon",
+  "name": "Short de bain garçon",
+  "category": "sport-plage",
+  "subcategory": "maillots-bain",
+  "brand": "Sunny Kids",
+  "price": 6500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/short-de-bain-garcon/1.webp",
+   "/images/products/short-de-bain-garcon/2.webp",
+   "/images/products/short-de-bain-garcon/3.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Orange"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester séchage rapide",
+  "gender": "garcon"
+ },
+ {
+  "slug": "t-shirt-anti-uv-manches-longues",
+  "name": "T-shirt anti-UV manches longues",
+  "category": "sport-plage",
+  "subcategory": "maillots-bain",
+  "brand": "Sunny Kids",
+  "price": 9900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/t-shirt-anti-uv-manches-longues/1.webp",
+   "/images/products/t-shirt-anti-uv-manches-longues/2.webp",
+   "/images/products/t-shirt-anti-uv-manches-longues/3.webp"
+  ],
+  "colors": [
+   "Turquoise",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyamide anti-UV 50+",
+  "gender": "mixte"
+ },
+ {
+  "slug": "bob-de-plage-anti-uv",
+  "name": "Bob de plage anti-UV",
+  "category": "sport-plage",
+  "subcategory": "maillots-bain",
+  "brand": "Sunny Kids",
+  "price": 4900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/bob-de-plage-anti-uv/1.webp",
+   "/images/products/bob-de-plage-anti-uv/2.webp",
+   "/images/products/bob-de-plage-anti-uv/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Bleu ciel"
+  ],
+  "sizeKind": "tete",
+  "material": "Polyester anti-UV 50+",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chemise-d-uniforme-kaki",
+  "name": "Chemise d'uniforme kaki",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 5500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/chemise-d-uniforme-kaki/1.webp",
+   "/images/products/chemise-d-uniforme-kaki/2.webp"
+  ],
+  "colors": [
+   "Kaki"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chemise-d-uniforme-bleu-ciel",
+  "name": "Chemise d'uniforme bleu ciel",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 5500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/chemise-d-uniforme-bleu-ciel/1.webp",
+   "/images/products/chemise-d-uniforme-bleu-ciel/2.webp",
+   "/images/products/chemise-d-uniforme-bleu-ciel/3.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Blanc"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "short-d-uniforme-garcon",
+  "name": "Short d'uniforme garçon",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 4900,
+  "rating": 4.4,
+  "images": [
+   "/images/products/short-d-uniforme-garcon/1.webp",
+   "/images/products/short-d-uniforme-garcon/2.webp",
+   "/images/products/short-d-uniforme-garcon/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Kaki"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "garcon"
+ },
+ {
+  "slug": "jupe-d-uniforme-plissee",
+  "name": "Jupe d'uniforme plissée",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 5500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/jupe-d-uniforme-plissee/1.webp",
+   "/images/products/jupe-d-uniforme-plissee/2.webp",
+   "/images/products/jupe-d-uniforme-plissee/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Kaki"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "fille"
+ },
+ {
+  "slug": "robe-d-uniforme-fille",
+  "name": "Robe d'uniforme fille",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 7900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/robe-d-uniforme-fille/1.webp",
+   "/images/products/robe-d-uniforme-fille/2.webp",
+   "/images/products/robe-d-uniforme-fille/3.webp"
+  ],
+  "colors": [
+   "Bleu ciel",
+   "Kaki"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "fille"
+ },
+ {
+  "slug": "pantalon-d-uniforme",
+  "name": "Pantalon d'uniforme",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 6500,
+  "rating": 4.3,
+  "images": [
+   "/images/products/pantalon-d-uniforme/1.webp",
+   "/images/products/pantalon-d-uniforme/2.webp",
+   "/images/products/pantalon-d-uniforme/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Kaki"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "garcon"
+ },
+ {
+  "slug": "pack-uniforme-chemise-et-short",
+  "name": "Pack uniforme chemise et short",
+  "category": "ecole",
+  "subcategory": "uniformes",
+  "brand": "École Plus",
+  "price": 9900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/pack-uniforme-chemise-et-short/1.webp",
+   "/images/products/pack-uniforme-chemise-et-short/2.webp",
+   "/images/products/pack-uniforme-chemise-et-short/3.webp"
+  ],
+  "colors": [
+   "Kaki",
+   "Bleu ciel"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polycoton résistant",
+  "gender": "garcon"
+ },
+ {
+  "slug": "sac-a-dos-maternelle",
+  "name": "Sac à dos maternelle",
+  "category": "ecole",
+  "subcategory": "sacs-scolaires",
+  "brand": "MMKids",
+  "price": 8900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/sac-a-dos-maternelle/1.webp",
+   "/images/products/sac-a-dos-maternelle/2.webp",
+   "/images/products/sac-a-dos-maternelle/3.webp",
+   "/images/products/sac-a-dos-maternelle/4.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Bleu ciel",
+   "Vert menthe"
+  ],
+  "sizeKind": null,
+  "material": "Polyester déperlant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "cartable-primaire-a-roulettes",
+  "name": "Cartable primaire à roulettes",
+  "category": "ecole",
+  "subcategory": "sacs-scolaires",
+  "brand": "École Plus",
+  "price": 18900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/cartable-primaire-a-roulettes/1.webp",
+   "/images/products/cartable-primaire-a-roulettes/2.webp",
+   "/images/products/cartable-primaire-a-roulettes/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Rose"
+  ],
+  "sizeKind": null,
+  "material": "Polyester renforcé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "sac-a-dos-imprime-wax",
+  "name": "Sac à dos imprimé wax",
+  "category": "ecole",
+  "subcategory": "sacs-scolaires",
+  "brand": "Akwaba Kids",
+  "price": 12900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/sac-a-dos-imprime-wax/1.webp",
+   "/images/products/sac-a-dos-imprime-wax/2.webp",
+   "/images/products/sac-a-dos-imprime-wax/3.webp"
+  ],
+  "colors": [
+   "Orange",
+   "Bleu"
+  ],
+  "sizeKind": null,
+  "material": "Tissu wax doublé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "sweat-a-capuche-enfant",
+  "name": "Sweat à capuche enfant",
+  "category": "ecole",
+  "subcategory": "sweats-gilets",
+  "brand": "MMKids",
+  "price": 9900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/sweat-a-capuche-enfant/1.webp",
+   "/images/products/sweat-a-capuche-enfant/2.webp",
+   "/images/products/sweat-a-capuche-enfant/3.webp",
+   "/images/products/sweat-a-capuche-enfant/4.webp"
+  ],
+  "colors": [
+   "Gris",
+   "Rose",
+   "Bleu marine"
+  ],
+  "sizeKind": "enfant",
+  "material": "Molleton coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "gilet-en-maille-boutonne",
+  "name": "Gilet en maille boutonné",
+  "category": "ecole",
+  "subcategory": "sweats-gilets",
+  "brand": "Petit Baobab",
+  "price": 8900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/gilet-en-maille-boutonne/1.webp",
+   "/images/products/gilet-en-maille-boutonne/2.webp",
+   "/images/products/gilet-en-maille-boutonne/3.webp"
+  ],
+  "colors": [
+   "Bleu marine",
+   "Beige"
+  ],
+  "sizeKind": "enfant",
+  "material": "Maille coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "veste-coupe-vent-legere",
+  "name": "Veste coupe-vent légère",
+  "category": "ecole",
+  "subcategory": "sweats-gilets",
+  "brand": "Lagune Kids",
+  "price": 13900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/veste-coupe-vent-legere/1.webp",
+   "/images/products/veste-coupe-vent-legere/2.webp",
+   "/images/products/veste-coupe-vent-legere/3.webp"
+  ],
+  "colors": [
+   "Jaune",
+   "Bleu"
+  ],
+  "sizeKind": "enfant",
+  "material": "Polyester déperlant",
+  "gender": "mixte"
+ },
+ {
+  "slug": "veste-en-jean-enfant",
+  "name": "Veste en jean enfant",
+  "category": "ecole",
+  "subcategory": "sweats-gilets",
+  "brand": "Lagune Kids",
+  "price": 14500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/veste-en-jean-enfant/1.webp",
+   "/images/products/veste-en-jean-enfant/2.webp"
+  ],
+  "colors": [
+   "Bleu jean"
+  ],
+  "sizeKind": "enfant",
+  "material": "Denim coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "casquette-enfant-brodee",
+  "name": "Casquette enfant brodée",
+  "category": "accessoires",
+  "subcategory": "chapeaux-casquettes",
+  "brand": "MMKids",
+  "price": 3900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/casquette-enfant-brodee/1.webp",
+   "/images/products/casquette-enfant-brodee/2.webp",
+   "/images/products/casquette-enfant-brodee/3.webp",
+   "/images/products/casquette-enfant-brodee/4.webp"
+  ],
+  "colors": [
+   "Rouge",
+   "Bleu marine",
+   "Rose"
+  ],
+  "sizeKind": "tete",
+  "material": "Coton sergé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "bob-reversible-enfant",
+  "name": "Bob réversible enfant",
+  "category": "accessoires",
+  "subcategory": "chapeaux-casquettes",
+  "brand": "Lagune Kids",
+  "price": 4500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/bob-reversible-enfant/1.webp",
+   "/images/products/bob-reversible-enfant/2.webp",
+   "/images/products/bob-reversible-enfant/3.webp"
+  ],
+  "colors": [
+   "Vert",
+   "Jaune"
+  ],
+  "sizeKind": "tete",
+  "material": "100 % coton",
+  "gender": "mixte"
+ },
+ {
+  "slug": "chapeau-de-paille-fille",
+  "name": "Chapeau de paille fille",
+  "category": "accessoires",
+  "subcategory": "chapeaux-casquettes",
+  "brand": "Mini Chic",
+  "price": 5900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/chapeau-de-paille-fille/1.webp",
+   "/images/products/chapeau-de-paille-fille/2.webp"
+  ],
+  "colors": [
+   "Beige"
+  ],
+  "sizeKind": "tete",
+  "material": "Paille naturelle",
+  "gender": "fille"
+ },
+ {
+  "slug": "lot-de-10-barrettes-fantaisie",
+  "name": "Lot de 10 barrettes fantaisie",
+  "category": "accessoires",
+  "subcategory": "accessoires-cheveux",
+  "brand": "MMKids",
+  "price": 2900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/lot-de-10-barrettes-fantaisie/1.webp",
+   "/images/products/lot-de-10-barrettes-fantaisie/2.webp"
+  ],
+  "colors": [],
+  "sizeKind": null,
+  "material": "Métal et résine",
+  "gender": "fille"
+ },
+ {
+  "slug": "serre-tete-a-noeud",
+  "name": "Serre-tête à nœud",
+  "category": "accessoires",
+  "subcategory": "accessoires-cheveux",
+  "brand": "Mini Chic",
+  "price": 2500,
+  "rating": 4.4,
+  "images": [
+   "/images/products/serre-tete-a-noeud/1.webp",
+   "/images/products/serre-tete-a-noeud/2.webp",
+   "/images/products/serre-tete-a-noeud/3.webp",
+   "/images/products/serre-tete-a-noeud/4.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Rouge",
+   "Blanc"
+  ],
+  "sizeKind": null,
+  "material": "Satin",
+  "gender": "fille"
+ },
+ {
+  "slug": "lot-de-4-chouchous-wax",
+  "name": "Lot de 4 chouchous wax",
+  "category": "accessoires",
+  "subcategory": "accessoires-cheveux",
+  "brand": "Akwaba Kids",
+  "price": 2500,
+  "rating": 4.7,
+  "images": [
+   "/images/products/lot-de-4-chouchous-wax/1.webp",
+   "/images/products/lot-de-4-chouchous-wax/2.webp"
+  ],
+  "colors": [
+   "Orange"
+  ],
+  "sizeKind": null,
+  "material": "Tissu wax",
+  "gender": "fille"
+ },
+ {
+  "slug": "lunettes-de-soleil-enfant-uv400",
+  "name": "Lunettes de soleil enfant UV400",
+  "category": "accessoires",
+  "subcategory": "lunettes-montres",
+  "brand": "Sunny Kids",
+  "price": 4900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/lunettes-de-soleil-enfant-uv400/1.webp",
+   "/images/products/lunettes-de-soleil-enfant-uv400/2.webp",
+   "/images/products/lunettes-de-soleil-enfant-uv400/3.webp",
+   "/images/products/lunettes-de-soleil-enfant-uv400/4.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Bleu",
+   "Noir"
+  ],
+  "sizeKind": null,
+  "material": "Monture flexible, verres UV400",
+  "gender": "mixte"
+ },
+ {
+  "slug": "montre-enfant-pedagogique",
+  "name": "Montre enfant pédagogique",
+  "category": "accessoires",
+  "subcategory": "lunettes-montres",
+  "brand": "MMKids",
+  "price": 7900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/montre-enfant-pedagogique/1.webp",
+   "/images/products/montre-enfant-pedagogique/2.webp",
+   "/images/products/montre-enfant-pedagogique/3.webp",
+   "/images/products/montre-enfant-pedagogique/4.webp"
+  ],
+  "colors": [
+   "Rose",
+   "Bleu ciel",
+   "Vert"
+  ],
+  "sizeKind": null,
+  "material": "Silicone et ABS",
+  "gender": "mixte"
+ },
+ {
+  "slug": "ceinture-elastique-enfant",
+  "name": "Ceinture élastique enfant",
+  "category": "accessoires",
+  "subcategory": "lunettes-montres",
+  "brand": "MMKids",
+  "price": 2900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/ceinture-elastique-enfant/1.webp",
+   "/images/products/ceinture-elastique-enfant/2.webp",
+   "/images/products/ceinture-elastique-enfant/3.webp"
+  ],
+  "colors": [
+   "Noir",
+   "Marron"
+  ],
+  "sizeKind": null,
+  "material": "Élastique tressé",
+  "gender": "mixte"
+ },
+ {
+  "slug": "bretelles-et-noeud-papillon",
+  "name": "Bretelles et nœud papillon",
+  "category": "accessoires",
+  "subcategory": "lunettes-montres",
+  "brand": "Mini Chic",
+  "price": 4500,
+  "rating": 4.6,
+  "images": [
+   "/images/products/bretelles-et-noeud-papillon/1.webp",
+   "/images/products/bretelles-et-noeud-papillon/2.webp",
+   "/images/products/bretelles-et-noeud-papillon/3.webp"
+  ],
+  "colors": [
+   "Rouge",
+   "Bleu marine"
+  ],
+  "sizeKind": null,
+  "material": "Polyester",
+  "gender": "garcon"
+ }
+]
