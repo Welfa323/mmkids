@@ -588,8 +588,11 @@ function slugify(s) {
 
 async function main() {
   const seen = new Set();
+  // ONLY_SLUGS=a,b : ne redessine que ces produits (les photos des autres produits sont conservées)
+  const ONLY = (process.env.ONLY_SLUGS ?? "").split(",").filter(Boolean);
+  const previous = fs.existsSync(SEED_FILE) ? Object.fromEntries(JSON.parse(fs.readFileSync(SEED_FILE, "utf8")).map((p) => [p.slug, p.images])) : {};
   fs.mkdirSync(IMG_DIR, { recursive: true });
-  for (const e of fs.readdirSync(IMG_DIR)) fs.rmSync(path.join(IMG_DIR, e), { recursive: true, force: true, maxRetries: 5 });
+  if (!ONLY.length) for (const e of fs.readdirSync(IMG_DIR)) fs.rmSync(path.join(IMG_DIR, e), { recursive: true, force: true, maxRetries: 5 });
   const seed = [];
   let count = 0;
   for (const prod of PRODUCTS) {
@@ -597,7 +600,12 @@ async function main() {
     if (seen.has(slug)) throw new Error(`Slug en double : ${slug}`);
     seen.add(slug);
     const dir = path.join(IMG_DIR, slug);
+    if (ONLY.length && !ONLY.includes(slug)) {
+      seed.push({ slug, name: prod.n, category: prod.c, subcategory: prod.s, brand: prod.b, price: prod.p, rating: prod.r, images: previous[slug] ?? [], colors: prod.col, sizeKind: prod.sz, material: prod.mat, gender: prod.g });
+      continue;
+    }
     fs.mkdirSync(dir, { recursive: true });
+    for (const f of fs.readdirSync(dir)) fs.rmSync(path.join(dir, f), { force: true, maxRetries: 5 });
     const colorsForImages = prod.col.length ? prod.col.slice(0, 3) : [MULTI[0]];
     const renders = colorsForImages.map((col) => renderSvg(prod, col));
     renders.push(renderSvg(prod, colorsForImages[0], { detail: true }));

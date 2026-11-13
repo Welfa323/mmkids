@@ -108,7 +108,9 @@ Règles :
 - Aucune donnée n'est envoyée à un serveur : panier, compte, favoris et commandes de démo sont stockés dans le navigateur (localStorage).
 - Les modifications du back-office (statuts, stock, promotions…) sont conservées pendant la session uniquement.
 - Les paiements, SMS, WhatsApp et emails sont simulés.
-- Visuels produits : **illustrations provisoires générées** (une par couleur + une vue détail), stockées dans `public/images/products/<slug>/N.webp`.
+- Visuels produits : **photos libres de droits Pixabay** (121 produits, sélectionnées une à une) et **illustrations générées**
+  pour les 16 produits sans photo adaptée. Ce sont des photos d'ambiance, pas les articles réels de la boutique : à remplacer
+  par les photos de la cliente. Source de chaque photo : `scripts/image-credits.json`.
 
 ## Catalogue enfant
 
@@ -119,12 +121,16 @@ Règles :
 Grilles de tailles (`src/modules/catalog/data/products.ts` → `SIZE_SETS`) : Naissance → 24 mois, 2 → 14 ans,
 pointures 17 → 23 (premiers pas) et 24 → 35, sous-vêtements, chaussettes, chapeaux.
 
-Le catalogue et ses visuels sont produits par un script :
+Le catalogue et ses visuels sont produits par deux scripts :
 
 ```bash
-node scripts/generate-catalog.mjs   # réécrit seed.json + public/images/products/
+node scripts/generate-catalog.mjs                 # ⚠️ réécrit seed.json + TOUTES les images en illustrations
+ONLY_SLUGS=slug-a,slug-b node scripts/generate-catalog.mjs   # illustrations pour ces produits seulement
+node scripts/fetch-pixabay-images.mjs --selection # (re)télécharge les photos validées (scripts/pixabay-selection.json)
 ```
 
-Pour passer aux **vraies photos** : remplacez simplement les fichiers `.webp` d'un produit (même nom, même dossier),
-ou modifiez la liste `PRODUCTS` du script (nom, prix, couleurs, tailles, matière) puis relancez-le.
-⚠️ Relancer le script régénère toutes les illustrations : faites-le avant d'ajouter les vraies photos, ou retirez-le ensuite.
+`fetch-pixabay-images.mjs` lit la clé `PIXABAY_API_KEY` dans `.env.local` (jamais commitée).
+
+Pour passer aux **vraies photos** : remplacez simplement les fichiers `.webp` d'un produit (même nom, même dossier,
+carré 800 × 800 conseillé). Si le nombre de photos change, ajustez le tableau `images` du produit dans
+`src/modules/catalog/data/seed.json`.

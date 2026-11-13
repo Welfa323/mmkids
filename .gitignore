@@ -10,3 +10,4 @@ npm-debug.log*
 .env
 .env*.local
 .vercel
+scripts/.pixabay-cache.json
